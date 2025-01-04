@@ -1,10 +1,10 @@
 baseURL = 'https://prescott.strangled.net/'
 languageCode = 'en-us'
-title = 'My Homepage'
+title = 'Come for the incoherent musings stay for the cat pictures.'
 theme = "hyde"
 
 [Menus]
   main = [
       {Name = "Github", URL = "https://github.com/nickwales/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/nickwales/"}
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/nick-wales/"}
   ]
